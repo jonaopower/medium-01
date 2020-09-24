@@ -18,7 +18,7 @@ Brincando com um TL;DR, já vou direto pra conclusão em relação a tecnologia 
 Mas caso não tenha, sem problemas, é uma excelente oportunidade de propor e ajudar a construir. O que não vale é ficar parado ou só cobrando de alguém.**
 
 Uma vez com estes nortes estabelecidos ( v1 de um roadmap de evolução tecnológica), começa uma fase sensacional de construir o caminho para chegarmos nestes objetivos.
-A notícia ruim é não existe um GPS para te guiar em caminho certeiro, e a boa, é que a construção e experimentação destes caminhos, é uma das experiências mais enriquecedoras que podemos ter profissionalmente. E aqui na **Localiza Labs** aconteceu exatamente isso.
+A notícia ruim é não existe um GPS para te guiar, e a boa, é que a construção e experimentação destes caminhos, é uma das experiências mais enriquecedoras que podemos ter profissionalmente. E aqui na **Localiza Labs** aconteceu exatamente isso.
 
 Para fazer isso acontecer, foi formada uma força tarefa composta por vários setores da TI, e juntamente com parceiros altamente capacitados, iniciamos um processo de aprendizado sobre as novas tecnologias, arquiteturas de software e infraestrutura. 
 
