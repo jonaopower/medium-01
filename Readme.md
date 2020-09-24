@@ -20,7 +20,7 @@ Mas caso não tenha, sem problemas, é uma excelente oportunidade de propor e aj
 Uma vez com estes nortes estabelecidos ( v1 de um roadmap de evolução tecnológica), começa uma fase sensacional de construir o caminho para chegarmos nestes objetivos.
 A notícia ruim é não existe um GPS para te guiar em caminho certeiro, e a boa, é que a construção e experimentação destes caminhos, é uma das experiências mais enriquecedoras que podemos ter profissionalmente. E aqui na **Localiza Labs** aconteceu exatamente isso.
 
-Para fazer isso acontecer, foi formada uma força tarefa composta por vários setores da TI, e juntamente com parceiros altamente capacitados, iniciamos um processo de estudo e capacitação sobre as novas tecnologias e arquiteturas de software e infraestrutura. 
+Para fazer isso acontecer, foi formada uma força tarefa composta por vários setores da TI, e juntamente com parceiros altamente capacitados, iniciamos um processo de aprendizado sobre as novas tecnologias, arquiteturas de software e infraestrutura. 
 
 Neste ponto da nossa jornada, tivemos a ajuda de quatro grandes "Guia 4 Rodas" (agora já sabem que vivi intensamente anos 80 e 90 :-) ) para nos apoiar nas tomadas de decisões: 
  - Os 12 Fatores (twelve factors) - [versão em inglês](https://12factor.net) e [versão em português](https://12factor.net/pt_br/)
@@ -40,7 +40,7 @@ Mais abaixo, vocês vão entender como estes pontos estão sendo muito important
 
 De todos os produtos que utilizamos em nossa nova stack tecnológica, 92% estão dentro do CNCF Landscape. Este é um percentual muito importante, que traz benefícios diretos e indiretos para todas as equipes de TI.
 
-Destes benefícios, é muito gratificante poder destacar alguns deles, visto aos desafios que superamos através dos mesmos:
+Visto aos desafios que superamos através destes beneficios, é muito gratificante poder destacar alguns deles:
  - Amplo acesso a informação: documentações, vídeos, podcast, fóruns, wikis, Repos Git, etc.;
  - Grande interoperabilidade e compatibilidade entre os componentes;
  - Maior facilidade no processo de recrutamento de novos colaboradores, visto à atratividade das ferramentas pelo publico de TI e disseminação das mesmas no mercado;
@@ -81,6 +81,7 @@ Segue abaixo os itens da nossa stack que fazem parte do CNCF:
 | Grafana                           | Monitoring                           | Dashboards de Monitoramento para Prometheus                       |
 | Zabbix                            | Monitoring                           | Monitoramento de servidores Linux                                 |
 | Datadog                           | Monitoring                           | Monitoramento de Aplicações - APM                                 |
+| Velero                            | Cloud Native Storage                 | Backup e restore cluster kubernetes                               |
 
 
 Aos poucos, vamos fazer novos artigos contando no detalhe como foi construção de cada um deles, compartilhando experiência e principalmente, código.
