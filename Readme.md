@@ -54,7 +54,7 @@ E por fim, como consequencia dos itens acima, dois ganho indiretos super valioso
  - Uma enorme proteção para o negocio da Localiza, que hoje é Tecnologia;
  - Grande diferencial competitivo, trazendo um TTM (time to market) muito expressivo para empresa assim como grande disponibilidade e performance de nossas aplicacoes;
 
-Segue abaixo os itens da nossa stack que fazem parte do CNCF.
+Segue abaixo os itens da nossa stack que fazem parte do CNCF:
 
 | Item                              | Categoria CNCF - Landscape           | Para que usamos                                                   |
 | :-------------------------------- | :----------------------------------- | :---------------------------------------------------------------- |
