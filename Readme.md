@@ -108,7 +108,7 @@ Criar uma cultura DevOps em uma startup com 50 funcionarios e 5 produtos pode se
 Ê preciso muita vontade, patrocinio em todas as esferas e parceiros altamente capacitados.
 
 É claro que nem tudo sao flores.
-Por mais exista um grande plano por tras, a mudanca, principalmente de mindset, tem que partir do proprio individuo. Nao tem como forçar a barra.
+Por mais que exista um grande plano por tras, a mudanca, principalmente de mindset, tem que partir do proprio individuo. Nao tem como forçar a barra.
 Pessoas nao possuem um arquivo .conf para alterarmos, reiniciar o serviço e uma nova forma de pensar e atuar entra em vigor. 
 Também nao possuem um arquivo YAML declarativo onde podemos mudar alguns parametros, "rodar a pipe" e pronto. Eita, ia ser bom né :-)
 Nesta jornada estamos aprendendo que o tempo de cada pessoa e os estimulos necessarios para cada uma delas sao muito distintos.
