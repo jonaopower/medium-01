@@ -94,7 +94,7 @@ Algo que ouvimos com frequencia, e as vezes ate com deboche, é que DevOps nao �
 
 Mas o que seria essa tal cultura DevOps ? Onde compra ? Tem DOC ? Fica em algum repo ?
 
-Concordo um pouco com as pessoas que criticam e reforcam os pontos que nao sao DevOps, como os citados acima, pois somente com tecnologia e automacao, dificilmente iriámos conseguir romper o famoso ["Wall of Confusion"](https://sellegi.se/glossary/wall-of-confusion/) e nem fazer os sonhados ["10+ deploys Per Day](https://www.rundeck.com/blog/twl-10-deploys-per-day-hammond-allspaw). O fator humano neste processo é fundamental, e ter uma empresa que entenda, apoie e direcione neste ponto é mandatório.
+Concordo um pouco com as pessoas que sempre nos lembram, e reforcam, os pontos que nao sao DevOps, como os citados acima, pois somente com tecnologia e automacao, dificilmente iriámos conseguir romper o famoso ["Wall of Confusion"](https://sellegi.se/glossary/wall-of-confusion/) e nem fazer os sonhados ["10+ deploys Per Day](https://www.rundeck.com/blog/twl-10-deploys-per-day-hammond-allspaw). O fator humano neste processo é fundamental, e ter uma empresa que entenda, apoie e direcione neste ponto é mandatório.
 
 ![Wall of Conf - Muro da confusao](https://www.plutora.com/wp-content/uploads/2014/09/enterprise_devops_wall_of_confusion.jpg)
 
