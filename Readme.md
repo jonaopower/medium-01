@@ -14,7 +14,8 @@ Neste artigo vamos focar na escolha das nossas novas ferramentas e o impacto das
 Vamos falar muito de Cloud Native Computing Foundation (CNCF) e a importancia dela em nossas escolhas.
 
 ## Tecnologia e processos
-Brincando com um TL;DR, ja vou direto pra conclusao em relacao a tecnologia e processos: Tenha um forte direcionamento de onde o seu negocio e a sua TI querem chegar.
+Brincando com um TL;DR, ja vou direto pra conclusao em relacao a tecnologia e processos: 
+Tenha um forte direcionamento de onde o seu negocio e a sua TI querem chegar.
 Mas caso nao tenha, sem problemas, é uma excelente oportunidade de propor e ajudar a construir. O que nao vale é ficar parado ou só cobrando de alguem.
 
 Uma vez com estes nortes estabelecidos ( v1 de um roadmap de evolucao tecnologica), começa uma fase sensacional de construir o caminho para chegarmos nestes obtivos.
