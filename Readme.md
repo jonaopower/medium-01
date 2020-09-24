@@ -10,7 +10,7 @@ Mas no nosso caso, a necessidade em questao nao era somente uma melhoria, reestr
 
 Estamos falando de uma transformacao de negocio, que desencadeou, em diferentes ritimos, transformaçoes de tecnologia, processos e principalmente de pessoas. Guarde com carinho este ultimo item: PESSOAS, vamos falar também sobre isso mais adiante.
 
-Neste artigo vamos focar na escolha das nossas novas ferramentas e o impacto das mesmas em nosso negocio, tecnologia e pessoas.
+Neste artigo vamos focar na escolha das nossas novas ferramentas e o impacto das mesmas em nosso negocio, tecnologia e em nossos times.
 Vamos falar muito de Cloud Native Computing Foundation (CNCF) e a importancia dela em nossas escolhas.
 
 ## Tecnologia e processos
