@@ -23,7 +23,7 @@ A noticia ruim é nao existe um GPS para te guiar em caminho certeiro, e a boa, 
 
 Para fazer isso acontecer, foi formada uma força tarefa composta por varios setores da TI, e juntamente com parceiros altamente capacitados, inicamos um processo de estudo e capacitacao sobre as novas tecnologias e arquiteturas de software e infraestrutura. 
 
-Neste ponto da nossa jornada, tivemos a ajuda de quatro grandes "Guia 4 Rodas" (agora ja sabem que vivi intensamente anos 80 e 90 :-) ) para nos apoiar nas tomadas de decisoes e nos alertar sobre alguns pontos super revelantes: 
+Neste ponto da nossa jornada, tivemos a ajuda de quatro grandes "Guia 4 Rodas" (agora ja sabem que vivi intensamente anos 80 e 90 :-) ) para nos apoiar nas tomadas de decisoes: 
  - Os 12 Fatores (twelve factors) - [versao em ingles](https://12factor.net) e [versao em portugues](https://12factor.net/pt_br/)
  - [CNCF Cloud Native - Trail Map](https://github.com/cncf/landscape/blob/master/README.md#trail-map)
  - [CNCF Cloud Native - Landscape](https://landscape.cncf.io)
