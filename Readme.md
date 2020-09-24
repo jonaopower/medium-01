@@ -118,7 +118,7 @@ Poder observar e participar do amadurecimento dos colaboradores tem sido uma exp
 Analistas de todas as áreas e todas as senioridades trabalhando juntos  e com um único proposito, um grande compartilhamento de conhecimentos, senso de dono, forte trabalho em equipe, autonomia, lideres se reinventando a todo momento para melhor servir aos times e à empresa, o problema de um é o problema de todos, são alguns exemplos disso que estou falando. 
 
 
-# Conclusão e mensagem final
+# Mensagem final
 Fecho este artigo fazendo algumas provocações e convites para quem estiver lendo:
 - Gostaria de trabalhar com DevOps raiz?
 - Trabalha com TI e gostaria de ter apoio e exemplo para uma transformação na sua carreira atuando com as mais diversas tecnologias de ponta?
