@@ -90,7 +90,7 @@ Aos poucos, vamos fazer novos artigos contando no detalhe como foi construcao de
 Umas das etapas mais cativantes desta jornada tem sido a tranformacao das pessoas.
 
 Muito do que está relacionado à DevOps ja virou cliche, como o proprio nome né? 
-Algo que ouvimos que frequencia, e as vezes ate com deboche, é que DevOps nao é e nao deve ser associado somente com ferramentas, com automacao, com pipeline, e muito menos com cargo (que atire a primeira pedra quem nunca sofreu ou fez bulling com isso), e que na verdade trata-se de uma tal CULTURA.
+Algo que ouvimos com frequencia, e as vezes ate com deboche, é que DevOps nao é e nao deve ser associado somente com ferramentas, com automacao, com pipeline, e muito menos com cargo (que atire a primeira pedra quem nunca sofreu ou fez bulling com isso), e que na verdade trata-se de uma tal CULTURA.
 
 E que p**** é essa de cultura magica que é entao a essencia do DevOps? 
 
