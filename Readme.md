@@ -83,6 +83,9 @@ Segue abaixo os itens da nossa stack que fazem parte do CNCF.
 | Zabbix                            | Monitoring                           | Monitoramento de servidres Linux                                  |
 | Datadog                           | Monitoring                           | Monitoramento de Aplicacoes - APM                                 |
 
+
+Aos poucos, vamos fazer novos artigos contando no detalhe como foi construcao de cada um deles, compartilhando experiencia e principalmente, código.
+
 ## Pessoas
 Umas das etapas mais cativantes desta jornada tem sido a tranformacao das pessoas.
 
