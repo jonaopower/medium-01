@@ -15,8 +15,8 @@ Vamos falar muito de Cloud Native Computing Foundation (CNCF) e a importancia de
 
 ## Tecnologia e processos
 Brincando com um TL;DR, ja vou direto pra conclusao em relacao a tecnologia e processos: 
-Tenha um forte direcionamento de onde o seu negocio e a sua TI querem chegar.
-Mas caso nao tenha, sem problemas, é uma excelente oportunidade de propor e ajudar a construir. O que nao vale é ficar parado ou só cobrando de alguem.
+- **Tenha um forte direcionamento de onde o seu negocio e a sua TI querem chegar.
+Mas caso nao tenha, sem problemas, é uma excelente oportunidade de propor e ajudar a construir. O que nao vale é ficar parado ou só cobrando de alguem.**
 
 Uma vez com estes nortes estabelecidos ( v1 de um roadmap de evolucao tecnologica), começa uma fase sensacional de construir o caminho para chegarmos nestes obtivos.
 A noticia ruim é nao existe um GPS para te guiar em caminho certeiro, e a boa, é que a contrucao e experimentacao destes caminhos, é uma das experiencias mais enriquecedoras que podemos ter profissionalmente. E aqui na Localiza Labs aconteceu exatamente isso.
