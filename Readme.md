@@ -35,7 +35,7 @@ Entenda principalmente o que sao, qual o seu proposito e como voce e seu time po
 Mas por que CNCF, e por que nos preocupamos tanto com isso?
 
 Conforme muito bem descrito pelo blog [veronez.dev:](https://veronez.dev/2019/12/01/um-pouco-sobre-a-cloud-native-computing-foundation-cncf/)
-*A CNCF é uma fundação que faz parte da Linux Foundation e tem como objetivo promover o desenvolvimento de soluções de nuvem, sejam elas públicas, privadas ou híbridas. Dessa forma, a CNCF auxilia e sustenta um ecossistema de projetos de código aberto e sem vinculação a nenhum fornecedor, ou seja, soluções que podem ser implementadas em qualquer fornecedor de serviço de nuvem.*
+*"A CNCF é uma fundação que faz parte da Linux Foundation e tem como objetivo promover o desenvolvimento de soluções de nuvem, sejam elas públicas, privadas ou híbridas. Dessa forma, a CNCF auxilia e sustenta um ecossistema de projetos de código aberto e sem vinculação a nenhum fornecedor, ou seja, soluções que podem ser implementadas em qualquer fornecedor de serviço de nuvem."*
 
 Mais abaixo, voces vao entender como estes pontos estao sendo muito importantes para a Localiza.
 
