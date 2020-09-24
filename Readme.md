@@ -92,7 +92,7 @@ Umas das etapas mais cativantes desta jornada tem sido a tranformacao das pessoa
 Muito do que está relacionado à DevOps ja virou cliche, como o proprio nome né? 
 Algo que ouvimos com frequencia, e as vezes ate com deboche, é que DevOps nao é e nao deve ser associado somente com ferramentas, com automacao, com pipeline, e muito menos com cargo (que atire a primeira pedra quem nunca sofreu ou fez bulling com isso), e que na verdade trata-se de uma tal CULTURA.
 
-E que p**** é essa de cultura magica que é entao a essencia do DevOps? 
+Mas o que seria essa tal cultura DevOps ? Onde compra ? Tem DOC ? Fica em algum repo ?
 
 Concordo um pouco com as pessoas que criticam e reforcam os pontos que nao sao DevOps, como os citados acima, pois somente com tecnologia e automacao, dificilmente iriámos conseguir romper o famoso ["Wall of Confusion"](https://sellegi.se/glossary/wall-of-confusion/) e nem fazer os sonhados ["10+ deploys Per Day](https://www.rundeck.com/blog/twl-10-deploys-per-day-hammond-allspaw). O fator humano neste processo é fundamental, e ter uma empresa que entenda, apoie e direcione neste ponto é mandatório.
 
