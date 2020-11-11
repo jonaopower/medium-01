@@ -78,7 +78,7 @@ Segue abaixo os itens da nossa stack que fazem parte do CNCF:
 | Kibana                            | Logging                              | Pesquisa de logs                                                  |
 | Elasticsearch                     | Logging                              | indexação e logs distribuídos                                     |
 | FluentD                           | Logging                              | Extração, enriquecimento ingestão de logs no Elasticsearch        |
-| Grafana                           | Monitoring                           | Dashboards de Monitoramento para Prometheus                       |
+| Grafana                           | Monitoring                           | Dashboards de Monitoramento para as métricas exportadas pelo Prometheus                       |
 | Zabbix                            | Monitoring                           | Monitoramento de servidores Linux                                 |
 | Datadog                           | Monitoring                           | Monitoramento de Aplicações - APM                                 |
 | Velero                            | Cloud Native Storage                 | Backup e restore cluster kubernetes                               |
