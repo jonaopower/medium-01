@@ -73,13 +73,13 @@ Segue abaixo os itens da nossa stack que fazem parte do CNCF:
 | Rundeck                           | Automation                           | Automacao de scripts de Operations as a Service                   |
 | RabbitMQ                          | Streaming & Messaging                | Desacoplamento de aplicações através do uso de filas de mensagens |
 | Kafka                             | Streaming & Messaging                | Streaming e transporte de dados                                   |
-| Terraform                         | Automation & Configuration           | IaC e automação                                                   |
-| Ansible                           | Automation & Configuration           | IaC e gestão de configuração                                      |
+| Terraform                         | Automation & Configuration           | IaC - Provisionamento de infra como código Automação              |
+| Ansible                           | Automation & Configuration           | IaC - Gestão de configuração                                      |
 | Kibana                            | Logging                              | Pesquisa de logs                                                  |
 | Elasticsearch                     | Logging                              | indexação e logs distribuídos                                     |
 | FluentD                           | Logging                              | Extração, enriquecimento ingestão de logs no Elasticsearch        |
 | Grafana                           | Monitoring                           | Dashboards de Monitoramento para as métricas exportadas pelo Prometheus                       |
-| Zabbix                            | Monitoring                           | Monitoramento de servidores Linux                                 |
+| Zabbix                            | Monitoring                           | Monitoramento de servidores Linux e Networking                                 |
 | Datadog                           | Monitoring                           | Monitoramento de Aplicações - APM                                 |
 | Velero                            | Cloud Native Storage                 | Backup e restore cluster kubernetes                               |
 
