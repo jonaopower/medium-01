@@ -68,7 +68,7 @@ Segue abaixo os itens da nossa stack que fazem parte do CNCF:
 | Service Proxy NGINX (k8s Ingress) | Service Proxy                        | Ingress do cluster kubernetes                                     |
 | Redis                             | Database                             | Cache Distribuído                                                 |
 | Calico                            | Cloud Native Network                 | CNI para cluster kubernetes                                       |
-| Flanel                            | Cloud Native Network                 | CNI para cluster kubernetes - workers windows com .NET Framework  |
+| Flannel                            | Cloud Native Network                 | CNI para cluster kubernetes - workers windows com .NET Framework  |
 | Jaegger                           | Tracing                              | Ferramenta para Tracing de requisicoes                            |
 | Rundeck                           | Automation                           | Automacao de scripts de Operations as a Service                   |
 | RabbitMQ                          | Streaming & Messaging                | Desacoplamento de aplicações através do uso de filas de mensagens |
