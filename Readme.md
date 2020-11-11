@@ -63,6 +63,7 @@ Segue abaixo os itens da nossa stack que fazem parte do [CNCF Landscape](https:/
 | Helm 3                            | Application Definition & Image Build | Empacotamento e instalação de aplicações no cluster kubernetes    |
 | Azure Devops - CI                 | Continuous Integration & Delivery    | Ferramenta de continuous integration                              |
 | Azure Devops - CD                 | Continuous Integration & Delivery    | Ferramenta de continuous delivery                                 |
+| Azure Devops - Repositories       | Continuous Integration & Delivery    | Ferramenta de continuous delivery                                 |
 | Azure Container Registry          | Container Registry                   | Registry privado de imagens Docker                                |
 | Prometheus                        | Monitoring                           | Monitoramento do cluster kubernetes e seus recursos               |
 | Service Proxy NGINX (k8s Ingress) | Service Proxy                        | Ingress do cluster kubernetes                                     |
@@ -127,5 +128,5 @@ Fecho este artigo fazendo algumas provocações e convites para quem estiver len
 - Já tem muita experiência com o mundo DevOps e gostaria de atuar em projetos de grande escala?
 - Gostaria de nunca ficar entediado por falta de desafios?
 
-Se alguma resposta foi sim, nos procure, se candidate e participe dos nossos processos de seleção.
+Se alguma resposta foi sim, nos procure, se [candidate](https://jobs.kenoby.com/localiza) e participe dos nossos [processos de seleção](https://jobs.kenoby.com/localiza).
 Temos várias vagas em aberto e será um prazer tê-lo em nosso time Localiza Labs.
